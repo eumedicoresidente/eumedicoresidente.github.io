@@ -1276,6 +1276,7 @@ a.move-top span {
     letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: 600;
+    margin-bottom: 1em;
 }
 
 .test-img img {
@@ -1286,7 +1287,6 @@ a.move-top span {
     -moz-border-radius: 50%;
     padding: 4px;
     background: rgba(30, 39, 46, 0.12);
-    margin-top: 1em;
     max-width: 100px;
 }
 
