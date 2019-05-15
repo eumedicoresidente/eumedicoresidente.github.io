@@ -1253,6 +1253,10 @@ ul.price-in li {
 
 /*-- to-top --*/
 
+#testimonials {
+    background: #E2A674;
+}
+
 a.move-top span {
     color: #fff;
     width: 34px;
@@ -1288,6 +1292,10 @@ a.move-top span {
     padding: 4px;
     background: rgba(30, 39, 46, 0.12);
     max-width: 100px;
+}
+
+.test-info p {
+    color: #40474a;
 }
 
 .mobl-footer.test-soc ul li {
